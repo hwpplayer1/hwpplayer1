@@ -13,3 +13,5 @@ jazz is democracy and a person is a person through other people and we are knitt
 @bilsege is the learning platform
 
 @247supportorg is the nonstop support platform
+
+@hwpplayer1 me is the founder of Masscollabs Services and Masif Computing Services
