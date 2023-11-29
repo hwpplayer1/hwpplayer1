@@ -1,7 +1,7 @@
 * 😎 I am a systems programmer who loves internet and cloud computing...
 * I am a happy hacker ☭
 
-![Mert Gör](mertgor.png)
+![Mert Gör](Mertgor-large-blue.jpg)
 
 About me README file
 
