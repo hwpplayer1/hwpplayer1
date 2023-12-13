@@ -1,5 +1,6 @@
 * 😎 I am a systems programmer who loves internet and cloud computing...
 * I am a happy hacker ☭
+* I want to lead to The Free Software Movement ☭
 
 ![Mert Gör](Mertgor-large-blue.jpg)
 
