@@ -1,12 +1,13 @@
 * 😎 I am a systems programmer who loves internet and cloud computing...
 * I am a happy hacker ☭
 * I want to lead to The Free Software Movement ☭
+* I am about to become a world citizen who loves many human languages ! 🇹🇷☭
 
-![Mert Gör](Mertgor-large-blue.jpg)
+![Mert Gör](Mertgor_resim.jpg)
 
 About me README file
 
-Copyright (C) 2017-2024 Mert Gör
+Copyright (C) 2017-2024 Mert Gör and contributors
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published
