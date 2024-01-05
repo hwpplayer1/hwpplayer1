@@ -1,6 +1,6 @@
 * 😎 I am a systems programmer who loves internet and cloud computing...
 * I am a happy hacker ☭
-* I want to lead to The Free Software Movement ☭
+* I want to lead to The Free Software Movement 🇹🇷☭
 * I am about to become a world citizen who loves many human languages ! 🇹🇷☭
 
 ![Mert Gör](trmertgor.png)
