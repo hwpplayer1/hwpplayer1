@@ -3,7 +3,7 @@
 * I want to lead to The Free Software Movement ☭
 * I am about to become a world citizen who loves many human languages ! 🇹🇷☭
 
-![Mert Gör](mertgor_resim.jpg)
+![Mert Gör](trmertgor.png)
 
 About me README file
 
