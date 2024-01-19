@@ -3,6 +3,9 @@
 * I want to lead to The Free Software Movement 🇹🇷☭
 * I am about to become a world citizen who loves many human languages ! 🇹🇷☭
 
+GPG Key ID: 0x03E547D043AB6C8F
+email : mertgor at masscollabs dot xyz
+
 ![Mert Gör](trmertgor.png)
 
 About me README file
