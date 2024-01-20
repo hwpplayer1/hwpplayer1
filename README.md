@@ -5,6 +5,9 @@
 * GPG Key ID: 0x03E547D043AB6C8F
 * email : mertgor at masscollabs dot xyz
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?pause=1000&color=DFDA2C&background=34105D&random=false&width=1000&lines=%F0%9F%98%8E+I+am+a+systems+programmer+who+loves+internet+and+cloud+computing...;I+am+a+happy+hacker+%E2%98%AD;I+want+to+lead+to+The+Free+Software+Movement+%F0%9F%87%B9%F0%9F%87%B7%E2%98%AD;I+am+about+to+become+a+world+citizen+who+loves+many+human+languages+!+%F0%9F%87%B9%F0%9F%87%B7%E2%98%AD;GPG+Key+ID%3A+0x03E547D043AB6C8F;email+%3A+mertgor+at+masscollabs+dot+xyz)](https://git.io/typing-svg)
+
+
 ![Mert Gör](trmertgor.png)
 
 About me README file
