@@ -1,22 +1,8 @@
-### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></a>
-
-<h4 align="left">Visitor's count :eyes:</h4>
-
-<p align="left"><img src="https://profile-counter.glitch.me/{hwpplayer1}/count.svg" alt="hwpplayer1 :: Visitor's Count" /></p>
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwpplayer1&langs_count=10&layout=compact" alt="hwpplayer1 :: Top Langs" /></p>
-
-
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=hwpplayer1&show_icons=true&theme=radical)
-
-* 😎 I am a systems programmer who loves internet and cloud computing...
-* I am a happy hacker ☭
-* I want to lead to The Free Software Movement 🇹🇷☭
-* I am about to become a world citizen who loves many human languages ! 🇹🇷☭
-* GPG Key ID: 0x03E547D043AB6C8F
-* email : mertgor at masscollabs dot xyz
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?pause=1000&color=DFDA2C&background=34105D&random=false&width=1000&lines=%F0%9F%98%8E+I+am+a+systems+programmer+who+loves+internet+and+cloud+computing...;I+am+a+happy+hacker+%E2%98%AD;I+want+to+lead+to+The+Free+Software+Movement+%F0%9F%87%B9%F0%9F%87%B7%E2%98%AD;I+am+about+to+become+a+world+citizen+who+loves+many+human+languages+!+%F0%9F%87%B9%F0%9F%87%B7%E2%98%AD;GPG+Key+ID%3A+0x03E547D043AB6C8F;email+%3A+mertgor+at+masscollabs+dot+xyz)](https://git.io/typing-svg)
 
+![Mert Gör's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwpplayer1&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwpplayer1)](https://github.com/hwpplayer1/github-readme-stats)
 
 ![Mert Gör](trmertgor.png)
 
@@ -40,21 +26,3 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 Feel free to send an email for your questions to mertgor at masscollabs dot xyz
 
 I am hwpplayer1 on Libera.chat also you may jump into #fsf channel for messaging me
-
- 
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
- 
-
