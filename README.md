@@ -1,3 +1,13 @@
+### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></a>
+
+<h4 align="left">Visitor's count :eyes:</h4>
+
+<p align="left"><img src="https://profile-counter.glitch.me/{hwpplayer1}/count.svg" alt="hwpplayer1 :: Visitor's Count" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwpplayer1&langs_count=10&layout=compact" alt="hwpplayer1 :: Top Langs" /></p>
+
+
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=hwpplayer1&show_icons=true&theme=radical)
+
 * 😎 I am a systems programmer who loves internet and cloud computing...
 * I am a happy hacker ☭
 * I want to lead to The Free Software Movement 🇹🇷☭
