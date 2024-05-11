@@ -4,6 +4,7 @@
 </h3>
 
 ![Özgür Yazılım, Özgür Türkiye](ozgurTurkiye.png)
+![Mustafa Kemal Atatürk](politician-60629.jpg)
 ![Mert Gör](mertgor.red.white.blue.png)
 
 About me README file
