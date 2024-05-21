@@ -7,6 +7,27 @@
 ![Mustafa Kemal Atatürk](politician-60629.jpg)
 ![Mert Gör](mertgor.red.white.blue.png)
 
+
+**hwpplayer1/hwpplayer1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+
+It seems like GitHub is caching this and it gets broken after a while
+![hwpplayer1's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwpplayer1&theme=vue&show_icons=true)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwpplayer1)](https://github.com/anuraghazra/github-readme-stats)
+
 About me README file
 
 Copyright (C) 2013-2024 Mert Gör 🇹🇷 ☭ and contributors
