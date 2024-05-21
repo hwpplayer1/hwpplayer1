@@ -13,7 +13,7 @@
 - 👯 I’m looking to collaborate on cloud based lab environment to give power to create amazing things for freedom/free software
 - 🤔 I’m looking for help with documentation writers who understands licensing
 - 💬 Ask me about [Free Software](https://www.gnu.org/philosophy/free-sw.en.html)
-- 📫 How to reach me: [mertgor@masscollabs.xyz](mertgor@masscollabs.xyz)
+- 📫 How to reach me: mertgor@masscollabs.xyz
 - 😄 Pronouns: Just say Mert please 😎
 - ⚡ Fun fact: I like coffee 
 
