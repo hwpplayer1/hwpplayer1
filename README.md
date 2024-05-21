@@ -12,8 +12,6 @@
 - 😄 Pronouns: Just say Mert please 😎
 - ⚡ Fun fact: I like coffee 
 
-![Snake animation](https://github.com/hwpplayer1/hwpplayer1/tree/main/snake.svg)
-
 ![hwpplayer1's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwpplayer1&theme=vue&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwpplayer1)](https://github.com/anuraghazra/github-readme-stats)
