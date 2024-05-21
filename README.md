@@ -8,10 +8,6 @@
 ![Mert Gör](mertgor.red.white.blue.png)
 
 
-**hwpplayer1/hwpplayer1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on programming language traninings for everyone
 - 🌱 I’m currently learning [git](https://github.com/git/git)
 - 👯 I’m looking to collaborate on cloud based lab environment to give power to create amazing things for freedom/free software
@@ -22,9 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I like coffee 
 
 
-It seems like GitHub is caching this and it gets broken after a while
 ![hwpplayer1's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwpplayer1&theme=vue&show_icons=true)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwpplayer1)](https://github.com/anuraghazra/github-readme-stats)
 
