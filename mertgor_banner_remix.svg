@@ -8,8 +8,8 @@
    version="1.1"
    id="svg1201"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   sodipodi:docname="mertgor_banner.svg"
-   inkscape:export-filename="mertgor_banner.png"
+   sodipodi:docname="mertgor_banner_remix.svg"
+   inkscape:export-filename="mertgor_banner_remix.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -28,9 +28,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.2114796"
-     inkscape:cx="1645.5085"
-     inkscape:cy="827.08781"
+     inkscape:zoom="0.16182219"
+     inkscape:cx="1374.966"
+     inkscape:cy="1668.498"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
@@ -1296,27 +1296,27 @@
        id="text1155"><tspan
          sodipodi:role="line"
          id="tspan1153"
-         style="stroke-width:0.265"></tspan></text>
+         style="stroke-width:0.265" /></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-weight:bold;font-size:35.2778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#000000;fill-opacity:1;stroke:#1c1c1c;stroke-width:0.264999;stroke-linecap:round;stroke-dasharray:0.264999, 0.264999;stroke-opacity:1"
-       x="649.66888"
-       y="182.06137"
+       x="521.95807"
+       y="187.95001"
        id="text1211"><tspan
          sodipodi:role="line"
          style="font-size:35.2778px;fill:#000000;stroke:#1c1c1c;stroke-width:0.265;stroke-opacity:1"
-         x="649.66888"
-         y="182.06137"
+         x="521.95807"
+         y="187.95001"
          id="tspan2516">Mert Gör</tspan><tspan
          sodipodi:role="line"
          style="font-size:35.2778px;fill:#000000;stroke:#1c1c1c;stroke-width:0.265;stroke-opacity:1"
-         x="649.66888"
-         y="226.15862"
+         x="521.95807"
+         y="232.04727"
          id="tspan3146">Systems Programmer </tspan><tspan
          sodipodi:role="line"
          style="font-size:35.2778px;fill:#000000;stroke:#1c1c1c;stroke-width:0.265;stroke-opacity:1"
-         x="649.66888"
-         y="270.25589"
+         x="521.95807"
+         y="276.1445"
          id="tspan1219" /></text>
   </g>
 </svg>
