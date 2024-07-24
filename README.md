@@ -1,4 +1,4 @@
-<h1 align=center>Hi People ! I'm Mert Gör from Türkiye, İstanbul 🇹🇷 ☭ </h1>
+<h1 align=center>Hi People ! I'm Mert Gör from Türkiye, İstanbul 🇹🇷</h1>
 <br>
 <img src="trmertgor.png" alt="mertgor" title="mertgor" width="640" height="640">
 <br>
