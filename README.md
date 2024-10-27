@@ -8,7 +8,9 @@
 hwpplayer1 is the online alias of Mert Gör, a Turkish systems programmer and advocate for the Free Software Movement. He is involved in several projects and organizations, including:
 
 - QB Networks: A strategic decision-making organization.
+
 - Masscollabs Services: A platform for collaborative projects.
+
 - Procyberian Systems Distribution (PSD): Where he serves as a Core Team Leader¹.
 
 Mert Gör is passionate about cloud computing, internet technologies, and promoting free software. He is also active on various platforms like GitHub and Mastodon¹².
@@ -16,11 +18,17 @@ Mert Gör is passionate about cloud computing, internet technologies, and promot
 Is there anything specific you would like to know about his work or contributions?
 
 Kaynak: Copilot ile konuşma. 27.10.2024
+
 (1) Mert Gör ☭ hwpplayer1 - GitHub. https://github.com/hwpplayer1.
+
 (2) hwpplayer1/hwpplayer1: hwpplayer1 intro - GitHub. https://github.com/hwpplayer1/hwpplayer1.
+
 (3) Mert Gör - DEV Community. https://dev.to/hwpplayer1.
+
 (4) undefined. https://www.qbnetworks.xyz.
+
 (5) undefined. https://directory.fsf.org/wiki/User:Mertgor.
+
 (6) undefined. https://www.gnu.org/licenses/.
 
 # License
