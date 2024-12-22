@@ -6,7 +6,7 @@
 <h1>Our leading domains with e-mails and GPG Key IDs</h1>
 <p>We proudly initialized the core and head center company organization called <a href="https://www.github.com/qbnetworks" target="_blank">QB Networks</a> for strategical decision making for The Masscollabs Services and its subprojects and for QB Networks my e-mail is <a href="mailto:mertgor@qbnetworks.xyz">mertgor@qbnetworks.xyz</a> and my GPG Key ID is 0xD200B456637BC4F3. As <a href="https://www.github.com/masscollabs" target="_blank">Masscollabs Services</a> founder my e-mail is <a href="mailto:mertgor@masscollabs.xyz">mertgor@masscollabs.xyz</a> and my GPG Key ID is 0x03E547D043AB6C8F. I'm the <a href="https://www.github.com/procyberian" target="_blank">PSD(Procyberian Systems Distribution)</a> Core Team Leader and my e-mail is <a href="mailto:mertgor@procyberian.xyz">mertgor@procyberian.xyz</a> and my GPG Key ID is 0xD5A31B8B1A6F02BC
 
-![The way to go](politician-60629.jpg)
+![The way to go](sky.png)
 
 # License
 
