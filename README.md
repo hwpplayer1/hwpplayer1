@@ -8,8 +8,6 @@
 
 <p>We QB Networks and Masscollabs Services are leading to Software, Hardware and Science for the Internet Cyberspace with our own consciousness. We have our own roadmap and which is why we say we are a Free Software project. This is an open way to software and open infrastructures ...</p>
 
-![The way to go](sky.png)
-
 # License
 
 About me README file
