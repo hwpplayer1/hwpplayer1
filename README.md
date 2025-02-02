@@ -3,7 +3,7 @@
 <h1 align=center>I lead to PSD(Procyberian Systems Distribution)</h1>
 <p>I work full-time to lead to <b>The Free Software Movement</b> globally. This is my main activity and I don't want to give up ... so happy hacking ! <b>"It is not the consciousness of men that determines their existence, but, on the contrary, their social existence determines their consciousness."</b> So The Free Software idea comes first before the all security ideas and practices. Because if you don't have the source code you can't protect it ! The point is not to understand something, nor do whatever you want to do. But not to do something that you don't want to do. Freedom respecting solutions comes first for me ... <b>which is why I do not run pentests to other people's systems.</b> But I do only for our systems and the publicly available source code. This is our freedom ... <b>jazz</b> is <b>democracy</b> and a person is a person through other people and we are knitting a <b>free society</b> happy hacking ! 🇹🇷
 </p>
-<h1>Our leading domains with e-mails and GPG Key IDs</h1>
+<h1>Our leading domains with e-mails and their GPG Key IDs</h1>
 <br>
 <p>
 <ul>
