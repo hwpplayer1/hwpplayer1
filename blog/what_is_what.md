@@ -6,7 +6,7 @@ I'll be happy to support your business whether it is large or small size with ou
 
 # Conclusion
 
-Free Sofware starts endless possibilities. For Hardware, Science, Art, Culture, and tools in other words Software. I don't want to waste my time for nonfree software. But I don't want to start a war. I want to focus on hacking my own software and business. All my efforts are related with this. 
+Free Sofware fosters endless possibilities. For Hardware, Science, Art, Culture, and tools in other words Software. I don't want to waste my time for nonfree software. But I don't want to start a war. I want to focus on hacking my own software and business. All my efforts are related with this. 
 
 So let's get started ! 
 
