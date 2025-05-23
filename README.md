@@ -1,4 +1,4 @@
-# Hi there, I'm Mert Gör! 👋
+# Hi People ! I'm Mert Gör from Türkiye 🇹🇷, İstanbul! 👋
 
 **Systems Programmer | Free Software Advocate | Aspiring Leader**
 
