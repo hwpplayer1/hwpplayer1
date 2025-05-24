@@ -36,7 +36,7 @@ I'm a passionate systems programmer specializing in Assembly, C, and C++. My exp
 
 ![hwpplayer1's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwpplayer1&show_icons=true&theme=radical)
 
-## License
+### License
 
 About me README file
 
@@ -55,7 +55,7 @@ GNU Affero General Public License for more details.
 You should have received a copy of the GNU Affero General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
-# Artwork License
+### Artwork License
 
 [CC BY-SA 4.0 or later](by-sa.markdown)
 
