@@ -1,5 +1,7 @@
 # Hi People ! I'm Mert Gör from Türkiye 🇹🇷, İstanbul! 👋
 
+![Mert Gör](img/mertgor_resim.jpg)
+
 **I want to lead to The Free Software Movement 🇹🇷**
 
 ---
@@ -38,8 +40,6 @@ You should have received a copy of the GNU Affero General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 ### Artwork License
-
-![Mert Gör](img/mertgor_resim.jpg)
 
 [CC BY-SA 4.0 or later](by-sa.markdown)
 
