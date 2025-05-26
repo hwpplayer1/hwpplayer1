@@ -1,40 +1,22 @@
 # Hi People ! I'm Mert Gör from Türkiye 🇹🇷, İstanbul! 👋
 
-**Systems Programmer | Free Software Advocate | Aspiring Leader**
+**I want to lead to The Free Software Movement 🇹🇷**
 
 ---
 
-### 👨‍💻 About Me
+## 🇹🇷 ```whoami```
 
-I'm a passionate systems programmer specializing in Assembly, C, and C++. My expertise lies in low-level development, with a particular focus on GCC and the Linux kernel. As an advocate for free software, I strive to contribute to and lead projects that empower users and promote open collaboration.
-
----
-
-### 🔧 Tech Stack
-
-- **Languages:** Assembly, C, C++
-- **Core Interests:** Systems programming, compilers, kernel development, performance engineering
-- **Key Projects:** GCC, Linux Kernel, and related free software initiatives
+I like to learn every details of a concept. I take responsibility to lead and make an organization up and running non stop. My dream is to live day and night with art of hacker culture.
 
 ---
 
-### 🌟 Short Bio
-
-> I am committed to building, improving, and leading free software projects. My mission: to make powerful, transparent technology accessible to everyone.
-
----
-
-### 🚀 Let's Connect
+## 🇹🇷 ```ping```
 
 - [Twitter/X](https://x.com/MertGor)
 - [Linkedin](https://www.linkedin.com/in/hwpplayer1/)
 - [infosec.exchange](https://infosec.exchange/@hwpplayer1)
 - [Free Software Directory](https://directory.fsf.org/wiki/User:Mertgor)
 - [Website](https://mertgor.xyz)
-
----
-
-![hwpplayer1's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwpplayer1&show_icons=true&theme=radical)
 
 ### License
 
@@ -56,6 +38,8 @@ You should have received a copy of the GNU Affero General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 ### Artwork License
+
+![Mert Gör](img/mertgor_resim.jpg)
 
 [CC BY-SA 4.0 or later](by-sa.markdown)
 
