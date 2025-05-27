@@ -6,7 +6,7 @@ I'm a systems programmer and Free Software leader candidate from İstanbul, Tür
 
 ---
 
-## About Me
+## 🇹🇷 About Me
 
 - **Systems Programmer & Free Software Leadership:** I work full-time to lead global initiatives in Free Software and cyber security. I believe that true protection comes from having access to source code—if you don’t have it, you can’t truly secure it.
   
@@ -19,7 +19,7 @@ I'm a systems programmer and Free Software leader candidate from İstanbul, Tür
 
 ---
 
-## Projects & Initiatives
+## 🇹🇷 Projects & Initiatives
 
 - **PSD (Procyberian Systems Distribution):** I'm the Core Team Leader and Founder of **[PSD](https://github.com/procyberian)** driving this project to develop the next generation of Free Software. PSD is about ensuring that digital systems are free as in freedom, open, secure, and accessible for all humanity.
 - **QB Networks:** Our team provides 24/7/365 cyber security solutions for the public, always prioritizing freedom-respecting practices.
@@ -50,7 +50,7 @@ I'm a systems programmer and Free Software leader candidate from İstanbul, Tür
 
 ---
 
-## Conclusion
+## 🇹🇷 Conclusion
 
 This profile and my projects are released under the [GNU Affero General Public License version 3 or later](https://www.gnu.org/licenses/agpl-3.0.html). All my code is built on the principle that freedom starts with transparency—when you have access to the source, you have power over security.
 
