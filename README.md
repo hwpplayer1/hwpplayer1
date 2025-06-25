@@ -21,7 +21,7 @@ I'm a systems programmer and Free Software leader candidate from İstanbul, Tür
 
 ## 🇹🇷 Projects & Initiatives
 
-- **PSD (Procyberian Systems Distribution):** I'm lead to **[PSD](https://github.com/procyberian)** driving this project to develop the next generation of Free Software. PSD is about ensuring that digital systems are free as in freedom, open, secure, and accessible for all humanity.
+- **PSD (Procyberian Systems Distribution):** I lead to **[PSD](https://github.com/procyberian)** driving this project to develop the next generation of Free Software. PSD is about ensuring that digital systems are free as in freedom, open, secure, and accessible for all humanity.
 - **QB Networks:** Our team provides 24/7/365 cyber security solutions for the public, always prioritizing freedom-respecting practices.
 - **Masscollabs Services:** A cloud platform dedicated to supporting and cultivating Free Software communities and projects.
 
