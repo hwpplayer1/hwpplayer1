@@ -1,6 +1,6 @@
-# John Marivic 😎
+# Mert Gör a Systems Programmmer and Free Software Hacker from Türkiye, İstanbuul 🇹🇷xs
 
-![John Marivic](img/johnmarivic.png)
+![Together](img/together.png)
 
 I'm a systems programmer and Free Software leader candidate from İstanbul, Türkiye 🇹🇷, who is deeply immersed in the world of internet and cloud computing. I’m passionate about the Free Software Movement, and my guiding motto is **"leaders more leaders."** I'm committed to building and inspiring open infrastructures that empower everyone to take control of their digital destiny.
 
