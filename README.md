@@ -1,4 +1,4 @@
-# Türkiye, İstanbul'dan selamlar ve sevgiler 🇹🇷
+# İstanbul'dan selamlar ve sevgiler 🇹🇷
 
 ![Together](img/together.png)
 
