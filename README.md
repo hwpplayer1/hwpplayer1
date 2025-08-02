@@ -1,4 +1,4 @@
-# hello there ! A warm greeting from 🇹🇷 İstanbbul
+# hello there ! A warm greeting from Türkiye, İstanbul 🇹🇷 
 
 ![Together](img/mgsysprog1920x1080_lights_and_doors.png)
 
