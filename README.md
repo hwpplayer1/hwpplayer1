@@ -1,4 +1,4 @@
-\# hello there ! A warm greeting from Türkiye, İstanbul 🇹🇷 
+# hello there ! A warm greeting from Türkiye, İstanbul 🇹🇷 
 
 ![Together](img/copyleft/starhuman.png)
 
