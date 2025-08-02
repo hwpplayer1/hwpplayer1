@@ -1,4 +1,4 @@
-# Mert Gör a Systems Programmmer and Free Software Hacker from Türkiye, İstanbuul 🇹🇷xs
+# Mert Gör a Systems Programmer and Free Software Advocate from Türkiye, İstanbuul 🇹🇷xs
 
 ![Together](img/together.png)
 
