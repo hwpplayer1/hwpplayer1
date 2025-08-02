@@ -1,4 +1,4 @@
-# Işık ve Sevgiyle Sonsuzluğa 🇹🇷
+# Işık ve Sevgiyle Sonsuzluğa ⭐️❤️🇹🇷
 
 ![Together](img/mgsysprog1920x1080_lights_and_doors.png)
 
