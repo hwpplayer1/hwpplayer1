@@ -1,4 +1,4 @@
-# Işık ve Sevgiyle Sonsuzluğa ⭐️❤️🇹🇷
+# hello there ! A warm greeting from 🇹🇷 İstanbbul
 
 ![Together](img/mgsysprog1920x1080_lights_and_doors.png)
 
