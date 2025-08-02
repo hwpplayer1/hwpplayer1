@@ -1,4 +1,4 @@
-# Mert Gör is a Systems Programmer and Free Software Advocate from Türkiye, İstanbul 🇹🇷
+# Türkiye, İstanbul'dan selamlar ve sevgiler 🇹🇷
 
 ![Together](img/together.png)
 
