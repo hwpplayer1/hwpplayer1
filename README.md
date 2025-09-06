@@ -45,8 +45,6 @@ I'm a systems programmer and Free Software leader candidate from İstanbul, Tür
 
 - **Free Software Foundation's Free Software Directory**
   - [Free Software Directory](https://directory.fsf.org/wiki/User:Mertgor)
-- **Personal Website**
-  - [Website](https://mertgor.xyz)
 
 ---
 
