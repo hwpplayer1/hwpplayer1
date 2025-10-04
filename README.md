@@ -35,7 +35,7 @@ I'm a systems programmer and Free Software leader candidate from İstanbul, Tür
   - Masscollabs Services: <mertgor@masscollabs.xyz>  
   - PSD (Procyberian Systems Distribution): <mertgor@procyberian.xyz>
 - **GPG Key IDs:**  
-  - QB Networks: `0xD200B456637BC4F3`  
+  - QB Networks: `0xCD9E83BD9F84F0AB`  
   - Masscollabs Services: `0x03E547D043AB6C8F`  
   - PSD: `0xD5A31B8B1A6F02BC`
 - **Social Media**
