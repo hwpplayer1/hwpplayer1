@@ -2,7 +2,7 @@
 
 ![Mert Gör](img/copyleft/opensource.png)
 
-I'm a systems programmer , I like Emacs, Assembly , C and C++. I'm working on Linux systems. I like network science.
+I'm a systems programmer , I like Emacs, Assembly , C and C++. I'm working on Linux systems.
 
 ## License
 
