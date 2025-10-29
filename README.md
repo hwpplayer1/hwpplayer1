@@ -1,6 +1,6 @@
-# Mert Gör and Open Source Workplace 🇹🇷 😎
+# Mert Gör and his Open Source Workplace 🇹🇷 😎
 
-![Mert Gör](img/copyleft/opensource.png)
+![Mert Gör](img/unknown/turkbayragi.jpg)
 
 I'm a systems programmer , I like Emacs, Assembly , C and C++. I'm working on Linux systems.
 
