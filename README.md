@@ -1,8 +1,8 @@
-# Mert Gör and his Open Source Workplace 🇹🇷 😎
+# I want to lead 🇹🇷 😎
 
 ![Mert Gör](img/unknown/turkbayragi.jpg)
 
-I'm a systems programmer , I like Emacs, Assembly , C and C++. I'm working on Linux kernel.
+I'm a systems programmer , I like GNU Emacs, Assembly , C and C++. I'm working on Linux kernel, GCC, and GNU Emacs on Debian GNU/Linux GNOME.
 
 ## License
 
