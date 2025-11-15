@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mert Gör ! I want to lead to The Free Software Movement ! 🇹🇷
+# I want to lead to The Free Software Movement ! 🇹🇷
 
 ![Mert Gör](img/copyleft/starhuman.png)
 
