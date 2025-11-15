@@ -1,4 +1,4 @@
-# I want to lead 🇹🇷 😎
+# I want to lead to The Free Software Movement ! 🇹🇷
 
 ![Mert Gör](img/copyleft/starhuman.png)
 
