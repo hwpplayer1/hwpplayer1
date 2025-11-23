@@ -1,6 +1,6 @@
 # I want to lead to The Free Software Movement ! 🇹🇷
 
-![Mert Gör](img/ai/qbnetworks.png)
+![Mert Gör](img/ai/thejustprince_copilot.png)
 
 Welcome to my GitHub profile!
 
