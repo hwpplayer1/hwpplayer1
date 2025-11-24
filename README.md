@@ -1,6 +1,6 @@
 # I want to lead to The Free Software Movement ! 🇹🇷
 
-![Mert Gör](img/ai/Thena-3835743.png)
+![Mert Gör](img/BSK.png)
 
 Welcome to my GitHub profile!
 
