@@ -1,6 +1,6 @@
 # I want to lead to The Free Software Movement ! 🇹🇷
 
-![Mert Gör](img/unknown/alejandro-luengo-jSvoR46Xk8Q-unsplash.jpg)
+![Mert Gör](img/publicdomain/workart/entrepreneurphrase.svg.png)
 
 Welcome to my GitHub profile!
 
