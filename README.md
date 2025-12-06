@@ -26,12 +26,6 @@ I’m passionate about Free Software Movement, and building tools that make tech
 
 ---
 
-## 📈 GitHub Stats
-
-![Hwpplayer1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hwpplayer1&show_icons=true&hide_title=true&hide_rank=true&theme=github_dark)
-
----
-
 ## 📫 How to Reach Me
 
 - **GitHub:** [@hwpplayer1](https://github.com/hwpplayer1)
