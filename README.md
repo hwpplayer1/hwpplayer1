@@ -19,7 +19,7 @@ I’m passionate about Free Software Movement, and building tools that make tech
 
 ---
 
-## R&D
+## ★ R&D
 
 I do research and developemnt on [scientific socialism](https://en.wikipedia.org/wiki/Scientific_socialism). And I want to become a postgraduate student in [Bilgi University](https://www.bilgi.edu.tr/en/academic/graduate/uep//)
 
