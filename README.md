@@ -1,6 +1,6 @@
 # I want to lead to The Free Software Movement ! 🇹🇷
 
-![Mert Gör](img/unknown/alejandro-luengo-jSvoR46Xk8Q-unsplash.jpg)
+![Mert Gör](img/copyleft/jack.png)
 
 I’m passionate about Free Software Movement, and building tools that make technology accessible for everyone. I'm a systems programmer , I like GNU Emacs, Assembly , C and C++. I'm working on Linux kernel, GCC, and GNU Emacs on Debian GNU/Linux GNOME.
 
