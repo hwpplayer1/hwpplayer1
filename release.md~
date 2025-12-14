@@ -1,0 +1,16 @@
+# Release Notes
+
+Here We are gonna tell you how to create tags and publish releases from tags
+
+* Create your file
+
+```
+touch abc.xyz.txt
+```
+
+Write your file with preferred text editor. On GNU/Linux it is like this :
+
+```
+nano abc.xyz.txt
+```
+
