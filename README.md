@@ -2,52 +2,26 @@
 
 ![Mert Gör](img/unknown/alejandro-luengo-jSvoR46Xk8Q-unsplash.jpg)
 
-Welcome to my GitHub profile!
-
 I’m passionate about Free Software Movement, and building tools that make technology accessible for everyone. I'm a systems programmer , I like GNU Emacs, Assembly , C and C++. I'm working on Linux kernel, GCC, and GNU Emacs on Debian GNU/Linux GNOME.
-
----
-
-## 🚀 About Me
-
-- 💻 Experienced in systems programming, kernel programming, compiler and programming language design, system architecture and design, automation and documentation.
-- 🌱 Always learning new technologies and frameworks
-- 🤝 Open to collaboration on Free Software projects
-- 📝 [Blogging and sharing knowledge whenever possible](https://mertgor.xyz)
-
----
-
-## 🧰 Tech Stack & Tools
-
-- **Languages:** Assembly, C, C++, Bash, Python, Emacs Lisp, Go, and more...
-- **Frameworks:** Qt Open Source, Django
-- **DevOps:** Docker, Woodpecker CI/CD
-- **Cloud:** AWS, Azure, GCP
 
 ---
 
 ## 📫 How to Reach Me
 
-- **GitHub:** [@hwpplayer1](https://github.com/hwpplayer1)
 - **Email:** mertgor@qbnetworks.xyz 
 - **GPG Key ID:** 0xCD9E83BD9F84F0AB 
-- **Blog:** https://mertgor.xyz
 
 ---
 
 ## 🗃️ Featured Repositories
-<!-- Replace with your repository showcases -->
+
 - [Hacker How To](https://github.com/hwpplayer1/hacker-how-to) - A guide for committers.
 
 ---
 
-## 🤲 Support & Sponsors
+## Research and Developemnt
 
-If you’d like to support my Free Software work, feel free to star my repositories or reach out for sponsorship opportunities!
-
----
-
-Thanks for visiting my profile!
+I do research and developemnt on [scientific socialism](https://en.wikipedia.org/wiki/Scientific_socialism).
 
 ## License
 
