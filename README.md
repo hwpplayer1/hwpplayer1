@@ -2,7 +2,7 @@
 
 I just started a new wave in Free Software Movement...
 
-![Mert Gör](img/publicdomain/turk.svg)
+![Mert Gör](img/publicdomain/Flag_of_Albania_large.svg)
 
 I’m passionate about Free Software Movement, and building tools that make technology accessible for everyone. I'm a systems programmer , I like GNU Emacs, Assembly , C and C++. I'm working on Linux kernel, GCC, and GNU Emacs on Debian GNU/Linux GNOME.
 
