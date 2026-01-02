@@ -2,24 +2,9 @@
 
 I just started a new wave in Free Software Movement...
 
-![Mert Gör](img/publicdomain/legal.png)
+![Mert Gör](img/BSK1920x1080.png)
 
 I’m passionate about Free Software Movement, and building tools that make technology accessible for everyone. I'm a systems programmer , I like GNU Emacs, Assembly , C and C++. I'm working on Linux kernel, GCC, and GNU Emacs on Debian GNU/Linux GNOME.
-
-1. find a good job related with computing, programming , networking, administration
-2. make your own personal company
-3. give programming language training via your personal company
-4. grow your leading projec communities and write private or public projects open source free software or mixed with nonfree 
-5. focus on distributing your applications, software and services under PSD community
-6. Support all projects and organizations by your personal company
-7. when your personal company grows enough make a large enterprise goal and for that QB Networks Cyber Security Company 24/7/365
-8. Set QB Networks as lead organization for all organizations and projects
-9. Then let other organizations to be commercial like QB Networks
-10. Become member of FSF, Linux Foundation, BSD 
-11. Become a partner of open source companies as well as Microsoft, Apple, Google, IBM, Huawei, AWS and others
-12. Support all kind of authors, content creators, free software and open source developers and open source and free software organizations , universities , companies , foundations and national government.
-13. Make PSD GNU/Linux as a Kali Linux, Blackarch and ParrotSec alternative
-14. Replace proprietary/nonfree software and services with Free Software focused with AGPLv3-or-later
 
 ## Mert Gör's Way to The Free Software
 
