@@ -2,7 +2,7 @@
 
 I just started a new wave in Free Software Movement...
 
-![Mert Gör](img/unknown/TurkBayragi_gokyuzu.jpg)
+![Mert Gör](img/ai/smile/Copilot_20260124_181457.png)
 
 I’m passionate about Free Software Movement, and building tools that make technology accessible for everyone. I'm a systems programmer , I like GNU Emacs, Assembly , C and C++. I'm working on Linux kernel, GCC, and GNU Emacs on Debian GNU/Linux GNOME.
 
