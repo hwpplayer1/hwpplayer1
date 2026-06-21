@@ -18,23 +18,6 @@ Freedom respecting solutions comes first for me ... which is why I do not run pe
 
 jazz is democracy and a person is a person through other people and we are knitting a free society happy hacking ! 🇹🇷
 
-## More details about me 
-
-Dear hackers,
-
-I am a Free Software instructor and systems programmer who loves internet techology, and dedicated to advancing open-source innovation through my own initiatives and community leadership. My work is not a job application—it is my profession and mission. I have taken on the role of Project Lead Developer and Systems Programmer within my own company, where I design, build, and teach Free Software systems that empower individuals and organizations.
-
-At QB Networks, I lead a developer team focused on replacing proprietary solutions with Free Software, primarily through GNU Emacs and modular programming practices. My leadership extends to projects in artificial intelligence research, malware analysis, and game development. As Project Lead Developer of Procyberian Systems Distribution (PSD GNU/Linux, GNU/Hurd , BSDs especially FreeBSD, OpenBSD, NetBSD systems), I oversee cross-platform application development, kernel engineering, and community programming education. These responsibilities reflect my commitment to building sustainable, transparent, and collaborative ecosystems.
-
-Beyond technical leadership, I contribute to community-driven initiatives such as the Linux® Türkiye Community, where I serve as Documentation Team Lead and also as Translation Team Lead. In this capacity, I coordinated Turkish localization efforts and took responsibility as reviewer for the DevOps LPI translation project, ensuring accuracy and accessibility for learners and professionals. These roles reinforced my dedication to empowering communities through education, translation, and Free Software advocacy.
-
-My background in economics complements my technical expertise, allowing me to approach projects with both analytical and strategic perspectives. I am passionate about advancing the Free Software Movement and believe that my skills in systems programming, kernel engineering, and AI development are essential to building a freer, more secure digital future.
-
-This is the work I have chosen, and it is the work I continue to lead. I welcome collaboration with those who share the vision of empowering communities through Free Software.
-
-Best regards,
-Mert Gör
-
 ---
 
 ## 📫 How to Reach Me
