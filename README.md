@@ -4,6 +4,25 @@ I just started a new wave in Free Software Movement...
 
 ![Mert Gör](img/unknown/horror_cult.jpg)
 
+DynaCore is a network company which holds federative protocols , ethics , community and company rules for our open source communities , companies and projects by @dynacoretr to @qbnetworks @masscollabs @masscollaborationlabs @procyberian and others.
+
+I founded those organizations and project which you can see on internet. My details are written below : 
+
+Name/Surname         : Mert Gör
+Company              : DynaCore (https://dynacore.tr)
+Role                 : CEO/BDFL/Project Lead Developer/Systems Programmer
+Phone                : +905538364618
+E-mail               : mert.gor@dynacore.tr
+GPG Key ID           : 0x
+Working Hours        : 12:00 AM - 21:00 PM İstanbul timezone GMT+3
+Telegram             : @hwpplayer1
+Libera Chat IRC      : hwpplayer1
+FSF    	    	     : Mertgor
+Online Go	         : thejustprince
+Nsosyal		         : thejustprince
+X		             : MertGor
+infosec.exchange     : hwpplayer1
+
 I’m passionate about Free Software Movement, and building tools that make technology accessible for everyone. I'm a systems programmer , I like GNU Emacs, Assembly , C and C++. I'm working on Linux kernel, GCC, and GNU Emacs on Debian GNU/Linux GNOME.
 
 ## Mert Gör's Way to The Free Software
@@ -20,13 +39,6 @@ jazz is democracy and a person is a person through other people and we are knitt
 
 ---
 
-## 📫 How to Reach Me
-
-- **Email:** mertgor@qbnetworks.xyz 
-- **GPG Key ID:** 0xCD9E83BD9F84F0AB 
-
----
-
 ## 🗃️ Featured Repositories
 
 - [Hacker How To](https://github.com/hwpplayer1/hacker-how-to) - A guide for committers.
@@ -37,7 +49,7 @@ jazz is democracy and a person is a person through other people and we are knitt
 
 About me README file
 
-Copyright (C) 2013-2026 Mert Gör and contributors
+Copyright (C) 2013-2027 Mert Gör and contributors
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published
