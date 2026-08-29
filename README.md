@@ -11,7 +11,7 @@ I founded those organizations , companies , communities, and projects which you 
 Name/Surname         : Mert Gör
 Company              : DynaCore (https://dynacore.tr)
 Role                 : CEO/BDFL/Project Lead Developer/Systems Programmer
-Phone                : +905538364617
+Phone                : +905538364618
 E-mail               : mert.gor@dynacore.tr
 GPG Key ID           : 0x000E76AAF4D30D58
 Working Hours        : 11:00 AM - 21:00 PM İstanbul timezone GMT+3
