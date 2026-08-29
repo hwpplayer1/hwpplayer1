@@ -6,7 +6,7 @@ I just started a new wave in Free Software Movement...
 
 DynaCore is a network company which holds federative protocols , ethics , community and company rules for our open source communities , companies and projects by @dynacoretr to @qbnetworks @masscollabs @masscollaborationlabs @procyberian and others.
 
-I founded those organizations and project which you can see on internet. My details are written below : 
+I founded those organizations , companies , communities, and projects which you can see on internet. My details are written below : 
 
 Name/Surname         : Mert Gör
 Company              : DynaCore (https://dynacore.tr)
