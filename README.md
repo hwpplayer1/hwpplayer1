@@ -9,18 +9,31 @@ DynaCore is a network company which holds federative protocols , ethics , commun
 I founded those organizations , companies , communities, and projects which you can see on internet. My details are written below :
 
 Name/Surname         : Mert Gör
+
 Company              : DynaCore (https://dynacore.tr)
+
 Role                 : CEO/BDFL/Project Lead Developer/Systems Programmer
+
 Phone                : +905538364618
+
 E-mail               : mert.gor@dynacore.tr
+
 GPG Key ID           : 0x000E76AAF4D30D58
+
 Working Hours        : 11:00 AM - 21:00 PM İstanbul timezone GMT+3
+
 Telegram             : @hwpplayer1
+
 Libera Chat IRC      : hwpplayer1
+
 FSF    	    	     : Mertgor
+
 Online Go	         : thejustprince
+
 Nsosyal		         : thejustprince
+
 X		             : MertGor
+
 infosec.exchange     : hwpplayer1
 
 I’m passionate about Free Software Movement, and building tools that make technology accessible for everyone. I'm a systems programmer , I like GNU Emacs, Assembly , C and C++. I'm working on Linux kernel, GCC, and GNU Emacs on Debian GNU/Linux GNOME.
