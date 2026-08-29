@@ -4,17 +4,17 @@ I just started a new wave in Free Software Movement...
 
 ![Mert Gör](img/unknown/horror_cult.jpg)
 
-DynaCore is a network company which holds federative protocols , ethics , community and company rules for our open source communities , companies and projects by @dynacoretr to @qbnetworks @masscollabs @masscollaborationlabs @procyberian and others.
+DynaCore is a network company which holds federative protocols , ethics , community and company rules for our open source communities , companies and projects by @dynacoretr to @qbnetworks @masscollabs @masscollaborationlabs @procyberian and others...
 
-I founded those organizations , companies , communities, and projects which you can see on internet. My details are written below : 
+I founded those organizations , companies , communities, and projects which you can see on internet. My details are written below :
 
 Name/Surname         : Mert Gör
 Company              : DynaCore (https://dynacore.tr)
 Role                 : CEO/BDFL/Project Lead Developer/Systems Programmer
-Phone                : +905538364618
+Phone                : +905538364617
 E-mail               : mert.gor@dynacore.tr
 GPG Key ID           : 0x000E76AAF4D30D58
-Working Hours        : 12:00 AM - 21:00 PM İstanbul timezone GMT+3
+Working Hours        : 11:00 AM - 21:00 PM İstanbul timezone GMT+3
 Telegram             : @hwpplayer1
 Libera Chat IRC      : hwpplayer1
 FSF    	    	     : Mertgor
