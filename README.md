@@ -13,7 +13,7 @@ Company              : DynaCore (https://dynacore.tr)
 Role                 : CEO/BDFL/Project Lead Developer/Systems Programmer
 Phone                : +905538364618
 E-mail               : mert.gor@dynacore.tr
-GPG Key ID           : 0x
+GPG Key ID           : 0x000E76AAF4D30D58
 Working Hours        : 12:00 AM - 21:00 PM İstanbul timezone GMT+3
 Telegram             : @hwpplayer1
 Libera Chat IRC      : hwpplayer1
