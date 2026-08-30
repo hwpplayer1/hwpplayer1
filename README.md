@@ -8,6 +8,14 @@ DynaCore is a network company which holds federative protocols , ethics , commun
 
 [QB Networks](https://qbnetworks.xyz) is a Cyber Security Company, [Masscollabs Services](https://masscollabs.xyz) is a Cloud Service platform, [PSD](https://procyberian.xyz) in other words Procyberian Systems Distribution is a GNU/Linux distribution, operating system and application suite, [Mass Collaboration Labs](https://masscollaborationlabs.xyz) is a R&D and Lab service platform.
 
+* QB Networks maintains the infrastructure and makes secure the source code.
+
+* PSD is our software ecosystem.
+
+* Masscollabs Services is our service platform.
+
+* Mass Collaboration Labs is our R&D node.
+
 I founded those organizations , companies , communities, and projects which you can see on internet. You can see @hwpplayer1 or @mertgor or similar names with my details.
 
 I use mu/mu4e GNU Emacs e-mail client with those details and mert.gor@dynacore.tr is my e-mail and commit address. My details are written below :
