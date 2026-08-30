@@ -1,6 +1,6 @@
 # I want to lead to The Free Software Movement ! 🇹🇷
 
-I just started a new wave in Free Software Movement...
+I just started a new wave across Free Software Movements...
 
 ![Mert Gör](img/unknown/horror_cult.jpg)
 
