@@ -6,7 +6,9 @@ I just started a new wave in Free Software Movement...
 
 DynaCore is a network company which holds federative protocols , ethics , community and company rules for our open source communities , companies and projects by @dynacoretr to @qbnetworks @masscollabs @masscollaborationlabs @procyberian and others...
 
-I founded those organizations , companies , communities, and projects which you can see on internet. My details are written below :
+I founded those organizations , companies , communities, and projects which you can see on internet. 
+
+I use mu/mu4e GNU Emacs e-mail client with those details and mert.gor@dynacore.tr is my e-mail and commit address My details are written below :
 
 Name/Surname         : Mert Gör
 
@@ -51,7 +53,7 @@ Freedom respecting solutions comes first for me ... which is why I do not run pe
 jazz is democracy and a person is a person through other people and we are knitting a free society happy hacking ! 🇹🇷
 
 ---
-
+	
 ## 🗃️ Featured Repositories
 
 - [Hacker How To](https://github.com/hwpplayer1/hacker-how-to) - A guide for committers.
