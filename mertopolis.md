@@ -1,25 +1,100 @@
-**@MertGor (Mert Gör)**, İstanbul merkezli bir özgür yazılım (Free Software) aktivisti, sistem programcısı ve siber güvenlik odaklı girişimcidir. Takipçi sayısı düşük (~400-420 civarı), ama içerikleri teknik, felsefi ve milli kalkınma odaklıdır. Bio’su: “BDFL @qbnetworks QB Networks Cyber Security Company”. Kişisel sitesi mertgor.xyz, GitHub’ı hwpplayer1, LinkedIn’i hwpplayer1 ve FSF Directory’de gönüllü olarak yer alır.
+**@MertGor (Mert Gör)**, İstanbul merkezli bir özgür yazılım (Free
+Software) aktivisti, sistem programcısı ve siber güvenlik odaklı
+girişimcidir. Takipçi sayısı düşük (\~400-420 civarı), ama içerikleri
+teknik, felsefi ve milli kalkınma odaklıdır. Bio'su: "BDFL @qbnetworks
+QB Networks Cyber Security Company". Kişisel sitesi mertgor.xyz,
+GitHub'ı hwpplayer1, LinkedIn'i hwpplayer1 ve FSF Directory'de gönüllü
+olarak yer alır.
 
 ### Mesleği
-- **BDFL (Benevolent Dictator For Life)** olarak **QB Networks**’ü yönetiyor: Özgür yazılım temelli siber güvenlik hizmetleri, stratejik karar alma ve ilgili projeler (Masscollabs Services, Procyberian Systems Distribution / PSD adında bir GNU/Linux dağıtımı ve uygulama seti, Mass Collaboration Labs eğitim/lab hizmetleri).
-- Sistem programcısı: Linux kernel, GCC, GNU Emacs, Assembly, C, C++ odaklı. Debian GNU/Linux + GNOME kullanıyor. GitHub’da eğitim repo’ları (C, C++, Python, Bash, Assembly) ve özgür yazılım projeleri geliştiriyor.
-- Free Software Foundation (FSF) Directory gönüllüsü; “Free Software Movement”i küresel ölçekte ilerletmeyi ana faaliyet olarak tanımlıyor. “Information wants to be free” mottosunu benimsiyor; kaynak kodu olmayan yazılımın gerçek güvenlik sağlayamayacağını vurguluyor.
 
-Şirketi ve projeleri tamamen özgür yazılım (çoğunlukla copyleft / AGPL tarzı) lisansı altında, “Free Software Free Society” sloganıyla ilerliyor.
+-   **BDFL (Benevolent Dictator For Life)** olarak **QB Networks**'ü
+    yönetiyor: Özgür yazılım temelli siber güvenlik hizmetleri,
+    stratejik karar alma ve ilgili projeler (Masscollabs Services,
+    Procyberian Systems Distribution / PSD adında bir GNU/Linux dağıtımı
+    ve uygulama seti, Mass Collaboration Labs eğitim/lab hizmetleri).
+-   Sistem programcısı: Linux kernel, GCC, GNU Emacs, Assembly, C, C++
+    odaklı. Debian GNU/Linux + GNOME kullanıyor. GitHub'da eğitim
+    repo'ları (C, C++, Python, Bash, Assembly) ve özgür yazılım
+    projeleri geliştiriyor.
+-   Free Software Foundation (FSF) Directory gönüllüsü; "Free Software
+    Movement"i küresel ölçekte ilerletmeyi ana faaliyet olarak
+    tanımlıyor. "Information wants to be free" mottosunu benimsiyor;
+    kaynak kodu olmayan yazılımın gerçek güvenlik sağlayamayacağını
+    vurguluyor.
+
+Şirketi ve projeleri tamamen özgür yazılım (çoğunlukla copyleft / AGPL
+tarzı) lisansı altında, "Free Software Free Society" sloganıyla
+ilerliyor.
 
 ### İdeolojisi ve Siyasi Görüşü
-Klasik parti ideolojisine (sağ-sol, AKP-CHP vb.) bağlı değil; **özgür yazılım hareketinin siyasi/felsefi uzantısını** merkeze koyuyor. Ana hatlar:
 
-- **Özgür Yazılım (Free Software) önceliği**: Richard Stallman çizgisine yakın ama pragmatik. Özel mülk yazılımı (proprietary) bağımlılık, güvenlik riski ve milli egemenlik kaybı olarak görüyor. Crowdstrike örneği ve yapay zekâ üzerinden “koduna müdahale edemezsek kod bize müdahale eder” diyor. Copyleft lisansları (kodun sürekli özgür kalması) tercih ediyor; permissive lisansları potansiyel kapalıya dönüşme riski taşıdığı için eleştiriyor.
-- **Milli bağımsızlık + kalkınma**: Teori Dergisi’nde yayımlanan “Özgür Yazılım Özgür Türkiye: Milli Bağımsızlık ve Kalkınma için Özgür Yazılım” yazısı (2024, güncellemeli) temel metni. Özgür yazılımı tarım, savunma, sağlık, ordu, kamu altyapısı gibi alanlarda zorunlu görüyor; aksi halde dışa bağımlılık ve arka kapı riski oluşur. “Yerli olabilmek için global de olmak gerek” diyor: İttifaklar ve uluslararası ekonomi-politikle kalkınma, ama Stalin tipi merkezi planlama veya salt küreselcilik (globalizm) değil.
-- **Anti-otoriter / özyönetim yanlısı**: Marxist-Leninist türevleri (parti merkeziyetçiliği) başarısız buluyor; “her üretim ve yönetim biriminde seçme hakkı”, özyönetim ve çok partili sistemi savunuyor. Stalin tipi metotlarla gelişmenin mümkün olmadığını açıkça söylüyor. “Özgürlük sadece kendi partin için değil, her düşünce için önemli” yaklaşımı var.
-- **İdeolojik at gözlüğüne karşı**: Blog yazılarında (ör. “Hangi Linux?”) “sürekli kapitalizm mi, anarşizm, sosyalizm, komünizm demeyin” diye uyarıyor. Aliya İzzetbegoviç’in özgürlükçü (inanç özgürlüğü dahil) tavrını öne çıkarıyor. Yugoslavya kökenli Arnavut kimliğine değiniyor. Adalet, şeffaflık ve “insana dokunan anlayış” vurgusu güçlü; teknolojiyi salt araç olarak görüyor.
-- Genel olarak: Özgürlükçü, milli egemenlikçi, teknolojik bağımsızlık odaklı, merkeziyetçi sol modellere eleştirel, piyasa mekanizmalarını tamamen reddetmeyen pragmatist bir çizgi. Dini referanslar (inşaAllah vb.) ara sıra geçiyor ama ideolojinin merkezi değil.
+Klasik parti ideolojisine (sağ-sol, AKP-CHP vb.) bağlı değil; **özgür
+yazılım hareketinin siyasi/felsefi uzantısını** merkeze koyuyor. Ana
+hatlar:
+
+-   **Özgür Yazılım (Free Software) önceliği**: Richard Stallman
+    çizgisine yakın ama pragmatik. Özel mülk yazılımı (proprietary)
+    bağımlılık, güvenlik riski ve milli egemenlik kaybı olarak görüyor.
+    Crowdstrike örneği ve yapay zekâ üzerinden "koduna müdahale
+    edemezsek kod bize müdahale eder" diyor. Copyleft lisansları (kodun
+    sürekli özgür kalması) tercih ediyor; permissive lisansları
+    potansiyel kapalıya dönüşme riski taşıdığı için eleştiriyor.
+-   **Milli bağımsızlık + kalkınma**: Teori Dergisi'nde yayımlanan
+    "Özgür Yazılım Özgür Türkiye: Milli Bağımsızlık ve Kalkınma için
+    Özgür Yazılım" yazısı (2024, güncellemeli) temel metni. Özgür
+    yazılımı tarım, savunma, sağlık, ordu, kamu altyapısı gibi alanlarda
+    zorunlu görüyor; aksi halde dışa bağımlılık ve arka kapı riski
+    oluşur. "Yerli olabilmek için global de olmak gerek" diyor:
+    İttifaklar ve uluslararası ekonomi-politikle kalkınma, ama Stalin
+    tipi merkezi planlama veya salt küreselcilik (globalizm) değil.
+-   **Anti-otoriter / özyönetim yanlısı**: Marxist-Leninist türevleri
+    (parti merkeziyetçiliği) başarısız buluyor; "her üretim ve yönetim
+    biriminde seçme hakkı", özyönetim ve çok partili sistemi savunuyor.
+    Stalin tipi metotlarla gelişmenin mümkün olmadığını açıkça söylüyor.
+    "Özgürlük sadece kendi partin için değil, her düşünce için önemli"
+    yaklaşımı var.
+-   **İdeolojik at gözlüğüne karşı**: Blog yazılarında (ör. "Hangi
+    Linux?") "sürekli kapitalizm mi, anarşizm, sosyalizm, komünizm
+    demeyin" diye uyarıyor. Aliya İzzetbegoviç'in özgürlükçü (inanç
+    özgürlüğü dahil) tavrını öne çıkarıyor. Yugoslavya kökenli Arnavut
+    kimliğine değiniyor. Adalet, şeffaflık ve "insana dokunan anlayış"
+    vurgusu güçlü; teknolojiyi salt araç olarak görüyor.
+-   Genel olarak: Özgürlükçü, milli egemenlikçi, teknolojik bağımsızlık
+    odaklı, merkeziyetçi sol modellere eleştirel, piyasa mekanizmalarını
+    tamamen reddetmeyen pragmatist bir çizgi. Dini referanslar
+    (inşaAllah vb.) ara sıra geçiyor ama ideolojinin merkezi değil.
 
 ### Yazılarının Özeti ve Yorumu
-- **Ana makale (Teori Dergisi)**: Özgür yazılımın milli ekonomi, kamu/ordu altyapısı, girişimcilik ve yapay zekâ için zorunluluğunu detaylı anlatıyor. Crowdstrike ve Microsoft Recall örnekleriyle kapalı sistem risklerini gösteriyor. Milli yazılımı “kapalı ekonomi + dış ticaret” dengesiyle bağdaştırıyor. Teknik derinliği yüksek, pratik öneriler içeriyor.
-- **Kişisel blog (mertgor.xyz)**: Şiirsel/kişisel yazılar (aşk, varoluş, karanlık-ışık temaları) + teknik-felsefi notlar. “Hangi Linux?” yazısı ideolojik tartışmalara karşı net bir duruş sergiliyor; kod kalitesi, topluluk sorumluluğu ve adaleti öne çıkarıyor.
-- **X paylaşımları**: Çoğunlukla özgür yazılım linkleri, teknik tartışmalar, yukarıdaki makaleyi paylaşma ve kısa ideolojik notlar. Son dönem paylaşımlarında yerli-global denge, enerji/malzeme sektörü gerekliliği ve yapay zekânın özgür yazılım üzerinden gelişmesi temaları öne çıkıyor. Engagement düşük; niş bir kitleye hitap ediyor.
-- **Genel yorum**: Yazıları tutarlı, samimi ve ideolojik tutarlılık taşıyor. Teknik bilgi + milli kalkınma + bireysel özgürlük sentezi yapıyor. Popülist veya kutuplaştırıcı değil; “hacker elitizmi”ni olumlu, sorumluluk ve şeffaflıkla birleştiriyor. Zayıf yanı: Geniş kitleye ulaşma ve somut politika önerilerinin sınırlı kalması. Güçlü yanı: Kaynak kodu özgürlüğü ile egemenlik/güvenlik arasında kurduğu net bağ. Felsefi derinliği (Marx’tan alıntı yapsa da merkezileşmeye karşı) ve pratik projeleri (kendi GNU/Linux dağıtımı vb.) onu tipik “yazılımcı aktivist”ten ayırıyor.
 
-Özetle Mert Gör, özgür yazılımı hem teknik hem siyasi bir kurtuluş/bağımsızlık aracı olarak gören, merkeziyetçi modellere mesafeli, milli kalkınmacı ve özgürlükçü bir profil. Mesleği tamamen bu ideolojiyle örtüşüyor.
+-   **Ana makale (Teori Dergisi)**: Özgür yazılımın milli ekonomi,
+    kamu/ordu altyapısı, girişimcilik ve yapay zekâ için zorunluluğunu
+    detaylı anlatıyor. Crowdstrike ve Microsoft Recall örnekleriyle
+    kapalı sistem risklerini gösteriyor. Milli yazılımı "kapalı
+    ekonomi + dış ticaret" dengesiyle bağdaştırıyor. Teknik derinliği
+    yüksek, pratik öneriler içeriyor.
+-   **Kişisel blog (mertgor.xyz)**: Şiirsel/kişisel yazılar (aşk,
+    varoluş, karanlık-ışık temaları) + teknik-felsefi notlar. "Hangi
+    Linux?" yazısı ideolojik tartışmalara karşı net bir duruş
+    sergiliyor; kod kalitesi, topluluk sorumluluğu ve adaleti öne
+    çıkarıyor.
+-   **X paylaşımları**: Çoğunlukla özgür yazılım linkleri, teknik
+    tartışmalar, yukarıdaki makaleyi paylaşma ve kısa ideolojik notlar.
+    Son dönem paylaşımlarında yerli-global denge, enerji/malzeme sektörü
+    gerekliliği ve yapay zekânın özgür yazılım üzerinden gelişmesi
+    temaları öne çıkıyor. Engagement düşük; niş bir kitleye hitap
+    ediyor.
+-   **Genel yorum**: Yazıları tutarlı, samimi ve ideolojik tutarlılık
+    taşıyor. Teknik bilgi + milli kalkınma + bireysel özgürlük sentezi
+    yapıyor. Popülist veya kutuplaştırıcı değil; "hacker elitizmi"ni
+    olumlu, sorumluluk ve şeffaflıkla birleştiriyor. Zayıf yanı: Geniş
+    kitleye ulaşma ve somut politika önerilerinin sınırlı kalması. Güçlü
+    yanı: Kaynak kodu özgürlüğü ile egemenlik/güvenlik arasında kurduğu
+    net bağ. Felsefi derinliği (Marx'tan alıntı yapsa da merkezileşmeye
+    karşı) ve pratik projeleri (kendi GNU/Linux dağıtımı vb.) onu tipik
+    "yazılımcı aktivist"ten ayırıyor.
+
+Özetle Mert Gör, özgür yazılımı hem teknik hem siyasi bir
+kurtuluş/bağımsızlık aracı olarak gören, merkeziyetçi modellere
+mesafeli, milli kalkınmacı ve özgürlükçü bir profil. Mesleği tamamen bu
+ideolojiyle örtüşüyor.
