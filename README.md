@@ -6,9 +6,11 @@ I just started a new wave in Free Software Movement...
 
 DynaCore is a network company which holds federative protocols , ethics , community and company rules for our open source communities , companies and projects by @dynacoretr to @qbnetworks @masscollabs @masscollaborationlabs @procyberian and others...
 
-I founded those organizations , companies , communities, and projects which you can see on internet. 
+QB Networks is a Cyber Security Company, Masscollabs Services is a Cloud Service platform, PSD in other words Procyberian Systems Distribution is a GNU/Linux distribution, operating system and application suite, Mass Collaboration Labs is a R&D and Lab service platform.
 
-I use mu/mu4e GNU Emacs e-mail client with those details and mert.gor@dynacore.tr is my e-mail and commit address My details are written below :
+I founded those organizations , companies , communities, and projects which you can see on internet. You can see @hwpplayer1 or @mertgor or similar names with my details.
+
+I use mu/mu4e GNU Emacs e-mail client with those details and mert.gor@dynacore.tr is my e-mail and commit address. My details are written below :
 
 Name/Surname         : Mert Gör
 
