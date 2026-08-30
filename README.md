@@ -16,6 +16,8 @@ DynaCore is a network company which holds federative protocols , ethics , commun
 
 * Mass Collaboration Labs is our R&D node.
 
+Think DynaCore as the ActivityPub protocol that connects different projects made by us and enables to transfer data across organizations.
+
 I founded those organizations , companies , communities, and projects which you can see on internet. You can see @hwpplayer1 or @mertgor or similar names with my details.
 
 I use mu/mu4e GNU Emacs e-mail client with those details and mert.gor@dynacore.tr is my e-mail and commit address. My details are written below :
