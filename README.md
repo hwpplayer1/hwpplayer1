@@ -2,7 +2,7 @@
 
 I just started a new wave across Free Software Movements...
 
-![Mert Gör](img/unknown/richard-stallman-noam-chomsky.jpg)
+![Mert Gör](img/publicdomain/turk.svg)
 
 [DynaCore](https://dynacore.tr) is a network company which holds federative protocols , ethics , community and company rules for our open source communities , companies and projects by [@dynacoretr](https://github.com/dynacoretr) to [@qbnetworks](https://github.com/qbnetworks) [@masscollabs](https://github.com/masscollabs) [@masscollaborationlabs](https://github.com/masscollaborationlabs) [@procyberian](https://github.com/procyberian) and others...
 
