@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="400mm"
+   height="400mm"
+   viewBox="0 0 400 400"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="greenland.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.42834014"
+     inkscape:cx="1134.6123"
+     inkscape:cy="864.9668"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#008000;stroke-width:5.032;paint-order:markers fill stroke"
+       d="M 1.4235927,0.6152816 199.50325,0.2412869 199.87,400.38184 1.7589815,401.07914 Z"
+       id="path66" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <path
+       style="fill:#0000ff;stroke-width:5.032;paint-order:markers fill stroke"
+       d="M 199.50325,0.2412869 401.13706,0.48739954 399.07165,400.4687 199.87,400.38184 Z"
+       id="path101" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 3">
+    <g
+       id="star"
+       style="display:inline;fill:#ffffff;fill-opacity:1"
+       transform="matrix(100.68922,0,0,97.815647,199.43328,199.51807)">
+      <g
+         id="cone"
+         style="fill:#ffffff;fill-opacity:1">
+        <polygon
+           id="triangle"
+           style="fill:#ffffff;fill-opacity:1"
+           points="0,0 0,1 0.5,1 "
+           transform="matrix(0.95106,0.30902,-0.30902,0.95106,0,-1)" />
+        <use
+           id="use2189"
+           style="fill:#ffffff;fill-opacity:1"
+           xlink:href="#triangle"
+           transform="scale(-1,1)"
+           height="600"
+           width="900"
+           y="0"
+           x="0" />
+      </g>
+      <use
+         id="use2191"
+         style="fill:#ffffff;fill-opacity:1"
+         xlink:href="#cone"
+         transform="rotate(72.001)"
+         height="600"
+         width="900"
+         y="0"
+         x="0" />
+      <use
+         id="use2193"
+         style="fill:#ffffff;fill-opacity:1"
+         xlink:href="#cone"
+         transform="rotate(-72.001)"
+         height="600"
+         width="900"
+         y="0"
+         x="0" />
+      <use
+         id="use2195"
+         style="fill:#ffffff;fill-opacity:1"
+         xlink:href="#cone"
+         transform="rotate(144)"
+         height="600"
+         width="900"
+         y="0"
+         x="0" />
+      <use
+         id="use2197"
+         style="fill:#ffffff;fill-opacity:1"
+         xlink:href="#cone"
+         transform="rotate(-144)"
+         height="600"
+         width="900"
+         y="0"
+         x="0" />
+    </g>
+  </g>
+</svg>
